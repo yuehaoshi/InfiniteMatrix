@@ -8,4 +8,4 @@ Demostration Video:
 src="https://youtu.be/daALYKkSKM0">
 </iframe>(https://youtu.be/daALYKkSKM0)
 
-<a href="{video-url}" title="Link Title"><img src="{image-url}" alt="Alternate Text" /></a>
+<a href="{video-url}" title="Link Title"></a>
