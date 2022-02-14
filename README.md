@@ -5,4 +5,4 @@ UIUC CS498GD SP22 MP1
 
 Demostration Video: 
 
-<a href="{video-url}" title="Link Title"></a>
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/daALYKkSKM0D)
